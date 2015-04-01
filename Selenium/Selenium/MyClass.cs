@@ -8,6 +8,8 @@ namespace Selenium
 {
     public class MyClass
     {
-        public int mMInt { get; set; }
+        public int MyInt { get; set; }
+
+        public string MyString { get; set; }
     }
 }
