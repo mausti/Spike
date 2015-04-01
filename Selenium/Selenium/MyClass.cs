@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Selenium
 {
-    class MyClass
+    public class MyClass
     {
+        public int mMInt { get; set; }
     }
 }
