@@ -41,3 +41,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# itim specific
+Selenium/Selenium/bin
+Selenium/Selenium/obj
+Selenium/Itim.Web.UI.Tester/bin
+Selenium/Itim.Web.UI.Tester/obj
+

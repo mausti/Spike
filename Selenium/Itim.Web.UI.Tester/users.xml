@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<users>
+  <user organisationSelector="new" username="belld" password="DemoMLS1" organisationName="Newcastle upon Tyne Hosp NHST"/>
+  <user organisationSelector="new" username="gicquelj" password="DemoMLS1" organisationName="Newcastle upon Tyne Hosp NHST"/>
+  <user organisationSelector="new" username="hardyj" password="DemoMLS2" organisationName="Newcastle upon Tyne Hosp NHST"/>
+  <user organisationSelector="new" username="hallj" password="DemoMLS1" organisationName="Newcastle upon Tyne Hosp NHST"/>
+  
+  <user organisationSelector="mai" username="lcurrie" password="DemoMLS3" organisationName="Maidstone &amp; Tunbridge Wells NHS Trust"/>
+  <user organisationSelector="mai" username="jayton" password="DemoMLS2" organisationName="Maidstone &amp; Tunbridge Wells NHS Trust"/>
+  <user organisationSelector="mai" username="jdalton" password="DemoMLS2" organisationName="Maidstone &amp; Tunbridge Wells NHS Trust"/>
+  <user organisationSelector="mai" username="mhajjawi" password="DemoMLS2" organisationName="Maidstone &amp; Tunbridge Wells NHS Trust"/>
+
+  <user organisationSelector="nhs l" username="blackj" password="DemoMLS1" organisationName="NHS Lanarkshire"/>
+  <user organisationSelector="nhs l" username="kyleb" password="DemoMLS1" organisationName="NHS Lanarkshire"/>
+  <user organisationSelector="nhs l" username="turnerl" password="DemoMLS1" organisationName="NHS Lanarkshire"/>
+  <user organisationSelector="nhs l" username="wilsona" password="DemoMLS1" organisationName="NHS Lanarkshire"/>
+
+  <user organisationSelector="ipswich" username="braunigd" password="DemoMLS1" organisationName="Ipswich Hospital NHS Trust"/>
+  <user organisationSelector="ipswich" username="gees" password="DemoMLS1" organisationName="Ipswich Hospital NHS Trust"/>
+  <user organisationSelector="ipswich" username="luisr" password="DemoMLS1" organisationName="Ipswich Hospital NHS Trust"/>
+  <user organisationSelector="ipswich" username="cordlej" password="DemoMLS1" organisationName="Ipswich Hospital NHS Trust"/>
+
+</users>
