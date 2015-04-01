@@ -13,6 +13,7 @@ namespace Itim.Web.UI.Tester
 {
 	/* Adding comment */
 	/* Adding additional comment */
+    /* even more comments */
     class Program
     {
         static void Main(string[] args)
